@@ -26,11 +26,8 @@ O aplicativo oferece as seguintes funcionalidades:
      ```
 
 2. **Executando o Aplicativo**:
-   - Execute o aplicativo Streamlit com o comando:
-     ```bash
-     streamlit run app.py
-     ```
-   - Após rodar o comando, o Streamlit abrirá o aplicativo em uma página do navegador onde você poderá interagir com os gráficos.
+   - Execute o aplicativo através do link:
+     https://sprint5-heury.onrender.com/
 
 ## Requisitos
 
