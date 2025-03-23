@@ -9,7 +9,7 @@ Este projeto aborda um aplicativo web interativo, criado com a biblioteca **Stre
 
 ## Funcionalidades
 
-O aplicativo oferece as seguintes funcionalidades:
+O aplicativo oferece as seguintes funcionalidades: 
 
 1. **Histograma de Odômetro**: O usuário pode gerar um histograma que mostra a distribuição do odômetro (quilometragem) dos carros presentes no conjunto de dados.
 2. **Gráfico de Dispersão**: O usuário pode gerar um gráfico de dispersão que compara o **preço** e o **ano de fabricação** dos carros.
