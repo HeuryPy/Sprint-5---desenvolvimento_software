@@ -1,4 +1,4 @@
-# sprint5_heury
+# Ferramentas para Desenvolvimento de Software
 
 Projeto para o Sprint 5 do curso de Análise de Sistemas da Tripleten
 Aluno: Heury Alex Sander Neves
